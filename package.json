@@ -1,7 +1,7 @@
 {
-  "name": "ionic-gamification",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "Farming Gamification",
+  "author": "Arif Setiawan",
+  "homepage": "http://arifsetiawan.com/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
@@ -55,5 +55,5 @@
       "locator": "android"
     }
   ],
-  "description": "A Farming Gamification project"
+  "description": "A Farming Gamification Project"
 }
