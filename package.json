@@ -48,7 +48,12 @@
       "platform": "ios",
       "version": "",
       "locator": "ios"
+    },
+    {
+      "platform": "android",
+      "version": "",
+      "locator": "android"
     }
   ],
-  "description": "ionic-gamification: An Ionic project"
+  "description": "A Farming Gamification project"
 }
